@@ -12,6 +12,6 @@ Part 3:
 •	View1: Designs a purchasing volume analysis to represent which buyer has the highest purchasing volume compared to other buyers.
 •	View2: By selecting the top buyer in the procurement department, it provides detailed purchase data for all activities over the past five years.
 
-This project includes several basic data visualizations created purely for demonstration. In real Boeing supply chain operations, data visualization depends on the requesting department, the underlying SAP-integrated system configuration, and the specific topic and  matter that requires visualization to view  the relevant system data .
+This project includes several basic data visualizations created purely for this Tableau's feature demonstration example only. In real Boeing supply chain operation systems, data visualization depends on the requesting department, the underlying SAP-integrated system configuration, and the specific topic and  matter that requires visualization to design and view  the relevant system data .
 
 Thank you for review and question.
