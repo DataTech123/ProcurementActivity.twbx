@@ -2,7 +2,6 @@ This procurement department activity project that I utilize Tableau to design da
 
 Part 1:
 •	View1: Design a Gantt chart to appropriately represent the selected buyer, item, PO Date, PO quantity, PO Amount, and key performance indicator (KPI) financial metrics, such as cost, savings, or expenditure.
-
 •	View2: Create a data summary report and the extracted data statements for stakeholders.
 
 Part 2:
